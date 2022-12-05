@@ -1,0 +1,4 @@
+br/com/carv/file/transfer/Client.class
+br/com/carv/file/transfer/FileTransfer.class
+br/com/carv/file/transfer/ClientThread.class
+br/com/carv/file/transfer/Server.class
